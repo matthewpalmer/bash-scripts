@@ -1,2 +1,2 @@
 Small collection of scripts I use
-- [ ] try out that thing
+- [x] try out that thing
